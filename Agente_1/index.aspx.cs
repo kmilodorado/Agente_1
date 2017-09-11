@@ -12,15 +12,24 @@ namespace Agente_1
     public partial class index : System.Web.UI.Page
     {
         public List<int> Y_Ante = new List<int>();//Inicialización de la lista de la Y anterior
-        public List<int> Entradas = new List<int>();//Inicialización de la lista de entradas En
+
+        public List<int> Entradas = new List<int>();//Inicialización de la lista de entradas 
+
         public List<int> Vector = new List<int>();//Inicialización de la lista vector de comparación
-        public int milagro;//Inicialización de la variable de la Resultante de la adeline 
-        public List<float> pesos = new List<float>();//Inicialización de la lista de los pesos sinaticos
-        Random ranpesos = new Random();//Inicialización de un objeto random para los numeros a la azar
+
+        public int milagro;//Inicialización de la variable del Resultante de la adeline 
+
+        public List<float> pesos = new List<float>();//Inicialización de la lista de los pesos sinápticos
+
+        Random ranpesos = new Random();//Inicialización de un objeto random para los números a la azar
+
         Red_Neuronal Neu;//Inicialización el objeto de la red neuronal
-       
+
         DataTable CNX = Conexion.EjecutarConsulta("SELECT * FROM tablero");//Consulta del tablero de la base de datos
-        int col = 0, row = 0;//Inicializacion  de la fila y columna de la ubicación agente
+
+        int col = 0, row = 0;//Inicialización de la fila y columna de la ubicación agente
+
+        
 
         //
         protected void Page_Load(object sender, EventArgs e)
@@ -37,22 +46,59 @@ namespace Agente_1
             Neu = new Red_Neuronal(Entradas, pesos); //Instanciar la red neuronal con los valores de las entradas y los pesos
             milagro = Neu.entrenamiento(Y_Ante, Vector);//Procesos de entrenamiento de ls neurona
             Response.Write(milagro);
-            Conexion.EjecutarOperacion("UPDATE `tableroia`.`agente1` SET `Movimiento`='"+ milagro + "' WHERE  `Movimiento`=0 LIMIT 1;");//
-        }
+            try
+            {
+                Conexion.EjecutarOperacion("UPDATE `tableroia`.`agente1` SET `Movimiento`='" + milagro + "' WHERE  `id`=1 LIMIT 1;");//Envio a la base de datos la nueva modificación al direccionamiento del agente
+            }
+            catch (Exception)
+            {
+                Response.Write("Termino");
+            }
+            }
 
         //Buscar Agente
         private int buscarAgenta(int fil)
         {
-            if ("1" == CNX.Rows[fil]["C1"].ToString()) { return 1; }
-            if ("1" == CNX.Rows[fil]["C2"].ToString()) { return 2; }
-            if ("1" == CNX.Rows[fil]["C3"].ToString()) { return 3; }
-            if ("1" == CNX.Rows[fil]["C4"].ToString()) { return 4; }
-            if ("1" == CNX.Rows[fil]["C5"].ToString()) { return 5; }
-            if ("1" == CNX.Rows[fil]["C6"].ToString()) { return 6; }
-            if ("1" == CNX.Rows[fil]["C7"].ToString()) { return 7; }
-            if ("1" == CNX.Rows[fil]["C8"].ToString()) { return 8; }
-            if ("1" == CNX.Rows[fil]["C9"].ToString()) { return 9; }
-            if ("1" == CNX.Rows[fil]["C10"].ToString()) { return 10; }
+            if ("1" == CNX.Rows[fil]["C1"].ToString())
+            {
+                return 1;
+            }
+            if ("1" == CNX.Rows[fil]["C2"].ToString())
+            {
+                return 2;
+            }
+            if ("1" == CNX.Rows[fil]["C3"].ToString())
+            {
+                return 3;
+            }
+            if ("1" == CNX.Rows[fil]["C4"].ToString())
+            {
+                return 4;
+            }
+            if ("1" == CNX.Rows[fil]["C5"].ToString())
+            {
+                return 5;
+            }
+            if ("1" == CNX.Rows[fil]["C6"].ToString())
+            {
+                return 6;
+            }
+            if ("1" == CNX.Rows[fil]["C7"].ToString())
+            {
+                return 7;
+            }
+            if ("1" == CNX.Rows[fil]["C8"].ToString())
+            {
+                return 8;
+            }
+            if ("1" == CNX.Rows[fil]["C9"].ToString())
+            {
+                return 9;
+            }
+            if ("1" == CNX.Rows[fil]["C10"].ToString())
+            {
+                return 10;
+            }
             row++;
             return 0;
         }

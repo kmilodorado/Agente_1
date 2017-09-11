@@ -1,0 +1,28 @@
+@charset "utf-8";
+body {
+    background-image: url(../Imagen/wall3.jpg);
+    background-size: cover;
+}
+
+.textoo{
+    font-family: "Homer Simpson", cursive;
+    font-size: 18px;
+    text-shadow: #8DCB1D 1px 1px 10px;
+}
+
+.textoTitulo{
+    font-family: "Homer Simpson", cursive;
+    font-size: 20px;
+    text-shadow: #E8928B 2px 2px 10px;
+}
+
+.bordes{
+    border-style:solid;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border-width: 0.8px 0.8px 0.8px 0.8px ;
+}
+
+
+

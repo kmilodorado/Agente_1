@@ -112,3 +112,69 @@ C:\Users\Cristian Camilo\Desktop\Agente_1\Agente_1\bin\Microsoft.CodeDom.Provide
 C:\Users\Cristian Camilo\Desktop\Agente_1\Agente_1\obj\Debug\Agente_1.csprojResolveAssemblyReference.cache
 C:\Users\Cristian Camilo\Desktop\Agente_1\Agente_1\obj\Debug\Agente_1.dll
 C:\Users\Cristian Camilo\Desktop\Agente_1\Agente_1\obj\Debug\Agente_1.pdb
+D:\ESCRITORIO\Agente_1\Agente_1\bin\ApplicationInsights.config
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\csc.exe
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\System.Collections.Immutable.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\vbc.exe
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\VBCSCompiler.exe
+D:\ESCRITORIO\Agente_1\Agente_1\bin\roslyn\VBCSCompiler.exe.config
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Agente_1.dll.config
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Agente_1.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Agente_1.pdb
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.DependencyCollector.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.Web.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.WindowsServer.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.ApplicationInsights.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.DependencyCollector.xml
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.Web.xml
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.AI.WindowsServer.xml
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.ApplicationInsights.xml
+D:\ESCRITORIO\Agente_1\Agente_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESCRITORIO\Agente_1\Agente_1\obj\Debug\Agente_1.csprojResolveAssemblyReference.cache
+D:\ESCRITORIO\Agente_1\Agente_1\obj\Debug\Agente_1.dll
+D:\ESCRITORIO\Agente_1\Agente_1\obj\Debug\Agente_1.pdb
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\ApplicationInsights.config
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\csc.exe
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\System.Collections.Immutable.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\vbc.exe
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\VBCSCompiler.exe
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\roslyn\VBCSCompiler.exe.config
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Agente_1.dll.config
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Agente_1.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Agente_1.pdb
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.DependencyCollector.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.Web.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.WindowsServer.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.ApplicationInsights.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.DependencyCollector.xml
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.Web.xml
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.AI.WindowsServer.xml
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.ApplicationInsights.xml
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\obj\Debug\Agente_1.csprojResolveAssemblyReference.cache
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\obj\Debug\Agente_1.dll
+D:\DOCUMENTOS\7mo Semestre\Inteligencia Artificial\Competencia IA\Agente_1\Agente_1\obj\Debug\Agente_1.pdb
